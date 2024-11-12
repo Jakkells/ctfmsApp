@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211131111971",
+    "project_id": "ctfms-app",
+    "storage_bucket": "ctfms-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211131111971:android:974c35fb77deaae7edef96",
+        "android_client_info": {
+          "package_name": "com.example.ctfms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU3kf4WOnlpP5l3Klu14Q8lTE-6HA8rpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
